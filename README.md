@@ -11,18 +11,27 @@ The dataset comprises rows representing the sourcing of one unit of a particular
 *Approach*
 
 Exploratory Data Analysis (EDA): Understand the dataset's structure, distributions, and relationships between variables.
+
 Data Preprocessing: Handle outliers and poor data quality, feature engineering, and data cleaning.
+
 Model Building and Evaluation: Implement various machine learning algorithms such as linear regression, decision tree, random forest, XGBoost, and LSTM. Evaluate their performance using metrics like MSE, RMSE, MAE, and R-squared score.
+
 Optimization: Apply optimization techniques to enhance model performance, such as outlier removal and feature engineering.
+
 Model Selection: Choose the best-performing model based on evaluation metrics and optimize it further if necessary.
+
 Forecasting: Use the selected model to forecast the sourcing costs for June 2021.
 
 *Modeling*
 
 Linear Regression
+
 Decision Tree Regressor
+
 Random Forest Regressor
+
 XGBoost Regressor
+
 LSTM
 
 
