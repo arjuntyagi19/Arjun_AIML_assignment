@@ -1,9 +1,11 @@
 # AP Moller Maersk DS-AIML challenge
 
 *Overview*
+
 This project aims to predict the sourcing costs of various product combinations using machine learning models. The dataset contains information about different attributes such as product type, manufacturer, area code, sourcing channel, product size, and more. The goal is to forecast the sourcing costs for June 2021 using data from July 2020 to May 2021.
 
 *Dataset*
+
 The dataset comprises rows representing the sourcing of one unit of a particular product combination. Each unique product combination is represented by attributes in Columns A to F. Training data spans from July 2020 to May 2021, and June 2021 is the test set. Multiple rows may have the same combination in the training dataset. The test set (June 2021) contains only a single value for each combination.
 
 *Approach*
