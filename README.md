@@ -27,7 +27,10 @@ The dataset comprises rows representing the sourcing of one unit of a particular
 
 ### LSTM Output
 
+Training-
 ![LSTM Output 1](LSTM_graph/best_model_test.jpg)
+
+Testing-
 
 ![LSTM Output 2](LSTM_graph/best_model_train.jpg)
 
