@@ -23,8 +23,15 @@ The dataset comprises rows representing the sourcing of one unit of a particular
 - Decision Tree Regressor
 - Random Forest Regressor
 - XGBoost Regressor
-- LSTM
+- LSTM(Best)
+
+### LSTM Output
+
+![LSTM Output 1](LSTM_graph/best_model_test.jpg)
+
+![LSTM Output 2](LSTM_graph/best_model_train.jpg)
 
 **Conclusion**
 
 The best-performing model among the ones evaluated is LSTM. In this analysis, I developed predictive models to estimate sourcing costs based on product attributes and other factors. By employing machine learning algorithms and optimization techniques, I achieved significant improvements in predictive accuracy. The LSTM model demonstrated the strongest performance, indicating its suitability for predicting sourcing costs for the test dataset in June 2021.
+
